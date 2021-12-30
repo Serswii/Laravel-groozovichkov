@@ -1,0 +1,19 @@
+.text-logo {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+p {
+    margin: 0;
+}
+p, a {
+    color: #000000;
+}
+.back-text {
+    margin-right: 5px;
+}
+body {
+    background-color: #f4f4f4;
+    height: 100%;
+    width: 100%;
+}
